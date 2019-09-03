@@ -50,3 +50,12 @@ body{
     background-image: url("../imagenes/heart-bg.jpg");
     background-color: #cccccc
 }
+
+#footer{
+
+    background: #777777;
+    text-align: center;
+    color: white;
+    padding: 0.5em;
+
+}
